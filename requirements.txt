@@ -1,0 +1,280 @@
+accelerate==0.33.0
+adagio==0.2.6
+aiofiles==24.1.0
+aiohappyeyeballs==2.4.0
+aiohttp==3.10.5
+aiosignal==1.3.1
+alabaster==1.0.0
+altair==5.4.1
+annotated-types==0.7.0
+anyio==4.4.0
+appdirs==1.4.4
+arviz==0.20.0
+asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1698341106958/work
+attrs==24.2.0
+av==12.3.0
+babel==2.16.0
+backoff==2.2.1
+beautifulsoup4==4.12.3
+bitsandbytes==0.41.0
+blosc2==2.7.1
+Bottleneck @ file:///croot/bottleneck_1731058641041/work
+Brotli==1.1.0
+cachetools==5.5.0
+certifi==2024.7.4
+charset-normalizer==3.3.2
+click==8.1.7
+climin==0.1a1
+cloudpickle==3.1.0
+cmdstanpy @ file:///home/conda/feedstock_root/build_artifacts/cmdstanpy_1734212843041/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1710320294760/work
+cons==0.4.6
+contourpy @ file:///croot/contourpy_1732540045555/work
+convertdate==2.4.0
+coreforecast==0.0.15
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1733332471406/work
+Cython==3.0.10
+datasets==2.16.1
+debugpy @ file:///croot/debugpy_1690905042057/work
+decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
+decord==0.6.0
+deepspeed==0.14.2
+dill==0.3.7
+distro==1.9.0
+docker-pycreds==0.4.0
+docstring_parser==0.16
+docutils==0.21.2
+einops==0.6.1
+einops-exts==0.0.4
+ephem==4.1.6
+et_xmlfile==2.0.0
+etuples==0.3.9
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1720869315914/work
+executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1725214404607/work
+fastapi==0.112.2
+fastcore==1.7.28
+fastprogress==1.0.3
+ffmpy==0.4.0
+filelock==3.15.4
+flash-attn==2.6.3
+fonttools==4.25.0
+frozenlist==1.4.1
+fs==2.4.16
+fsspec==2023.10.0
+ftfy==6.2.3
+fugue==0.9.1
+future==1.0.0
+gdown==5.2.0
+gitdb==4.0.11
+GitPython==3.1.43
+GPy==1.13.2
+GPy-ABCD==1.2.3
+gradio==3.35.2
+gradio_client==0.2.9
+graph_of_thoughts==0.0.2
+h11==0.14.0
+h5netcdf==1.4.1
+h5py==3.12.1
+hf_transfer==0.1.8
+hjson==3.1.0
+holidays @ file:///home/conda/feedstock_root/build_artifacts/holidays_1736211642275/work
+httpcore==0.17.3
+httpx==0.24.0
+huggingface-hub==0.24.5
+hyperopt==0.2.7
+idna==3.7
+imagesize==1.4.1
+importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1726082825846/work
+importlib_resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1736252299705/work
+inflate64==1.0.1
+ipykernel @ file:///home/conda/feedstock_root/build_artifacts/ipykernel_1719845459717/work
+ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1725050136642/work
+jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1696326070614/work
+Jinja2==3.1.4
+joblib==1.4.2
+jsonschema==4.23.0
+jsonschema-specifications==2023.12.1
+juliacall==0.9.21
+juliapkg==0.1.13
+jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1726610684920/work
+jupyter_core @ file:///home/conda/feedstock_root/build_artifacts/jupyter_core_1727163409502/work
+kiwisolver @ file:///work/ci_py311/kiwisolver_1676827230232/work
+lark==1.2.2
+latex2mathml==3.77.0
+lightning-utilities==0.11.9
+linkify-it-py==2.0.3
+-e git+https://github.com/LLaVA-VL/LLaVA-NeXT.git@6ca43a6c3fbed0de1005bf856e46373ac46c0774#egg=llava
+llvmlite==0.43.0
+logical-unification==0.4.6
+LunarCalendar==0.0.9
+markdown-it-py==2.2.0
+markdown2==2.5.0
+MarkupSafe==2.1.5
+matplotlib==3.9.1
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1713250518406/work
+mdit-py-plugins==0.3.3
+mdurl==0.1.2
+miniKanren==1.0.3
+mizani==0.11.4
+mkl-service==2.4.0
+mkl_fft @ file:///io/mkl313/mkl_fft_1730824109137/work
+mkl_random @ file:///io/mkl313/mkl_random_1730823916628/work
+mogptk==0.5.2
+mpmath==1.3.0
+msgpack==1.1.0
+multidict==6.0.5
+multipledispatch==1.0.0
+multiprocess==0.70.15
+multivolumefile==0.2.3
+munkres==1.1.4
+narwhals==1.6.0
+natsort==8.4.0
+ndindex==1.9.2
+nds @ file:///home/mok/module/abcd/nds-py
+nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1705850609492/work
+networkx==3.3
+neuralforecast==0.1.0
+ninja==1.11.1.1
+numba==0.60.0
+numexpr @ file:///croot/numexpr_1730215937391/work
+numpy==1.26.1
+numpydoc==1.8.0
+nvidia-cublas-cu12==12.1.3.1
+nvidia-cuda-cupti-cu12==12.1.105
+nvidia-cuda-nvrtc-cu12==12.1.105
+nvidia-cuda-runtime-cu12==12.1.105
+nvidia-cudnn-cu12==8.9.2.26
+nvidia-cufft-cu12==11.0.2.54
+nvidia-curand-cu12==10.3.2.106
+nvidia-cusolver-cu12==11.4.5.107
+nvidia-cusparse-cu12==12.1.0.106
+nvidia-nccl-cu12==2.18.1
+nvidia-nvjitlink-cu12==12.6.20
+nvidia-nvtx-cu12==12.1.105
+open_clip_torch==2.26.1
+openai==1.38.0
+opencv-python==4.10.0.84
+openpyxl==3.1.5
+orjson==3.10.7
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1718189413536/work
+pandas==2.2.2
+paramz==0.9.6
+parserllm==0.0.2
+parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1712320355065/work
+patsy==0.5.6
+peft==0.4.0
+pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_1706113125309/work
+pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+pillow==10.4.0
+platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1726613481435/work
+plotly==5.24.1
+plotnine==0.13.6
+pods==0.1.14
+prompt_toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1727341649933/work
+prophet==1.1.6
+protobuf==5.28.0
+psutil @ file:///work/ci_py311_2/psutil_1679337388738/work
+ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure_eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1721585709575/work
+py-cpuinfo==9.0.0
+py4j==0.10.9.8
+py7zr==0.22.0
+pyarrow==17.0.0
+pyarrow-hotfix==0.6
+pybcj==1.0.3
+pycryptodomex==3.21.0
+pydantic==1.10.8
+pydantic_core==2.20.1
+pydub==0.25.1
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1714846767233/work
+pymc==5.19.1
+pymc-learn==0.0.1rc3
+pymc3==3.11.4
+PyMeeus==0.5.12
+pynvml==11.5.3
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1735698276679/work
+pyppmd==1.1.1
+PySocks==1.7.1
+pysr==0.19.3
+pytensor==2.26.4
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
+python-multipart==0.0.9
+pytorch-lightning==2.5.0.post0
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1733215667876/work
+PyYAML==6.0.1
+pyzmq @ file:///croot/pyzmq_1705605076900/work
+pyzstd==0.16.2
+referencing==0.35.1
+regex==2023.12.25
+rellm==0.0.5
+requests==2.32.3
+rich==13.8.0
+rpds-py==0.20.0
+safetensors==0.4.3
+scikit-learn==1.2.2
+scipy==1.12.0
+seaborn==0.13.2
+semantic-version==2.10.0
+semver==3.0.2
+sentencepiece==0.1.99
+sentry-sdk==2.13.0
+setproctitle==1.3.3
+shortuuid==1.0.13
+shtab==1.7.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+smmap==5.0.1
+sniffio==1.3.1
+snowballstemmer==2.2.0
+soupsieve==2.6
+Sphinx==8.1.3
+sphinxcontrib-applehelp==2.0.0
+sphinxcontrib-devhelp==2.0.0
+sphinxcontrib-htmlhelp==2.1.0
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==2.0.0
+sphinxcontrib-serializinghtml==2.0.0
+stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1669632077133/work
+stanio @ file:///home/conda/feedstock_root/build_artifacts/stanio_1734581598953/work
+starlette==0.38.4
+statsforecast==2.0.0
+statsmodels==0.14.2
+svgwrite==1.4.3
+sympy==1.13.1
+tables==3.10.1
+tabulate==0.9.0
+tenacity==9.0.0
+texttable==1.7.0
+Theano==1.0.5
+Theano-PyMC==1.1.2
+threadpoolctl==3.5.0
+timm==1.0.9
+tokenizers==0.19.1
+toolz==1.0.0
+torch==2.1.2
+torchinfo==1.8.0
+torchmetrics==1.6.1
+torchvision==0.16.2
+tornado @ file:///croot/tornado_1718740109488/work
+tqdm==4.66.5
+traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1713535121073/work
+transformers==4.43.1
+triad==0.9.8
+triton==2.1.0
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1717802530399/work
+tyro==0.8.10
+tzdata==2024.1
+uc-micro-py==1.0.3
+urllib3==1.26.20
+utilsforecast==0.2.10
+uvicorn==0.30.6
+wandb==0.17.8
+wavedrom==2.0.3.post3
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
+websockets==13.0.1
+xarray==2024.11.0
+xarray-einstats==0.8.0
+xlrd==2.0.1
+xxhash==3.5.0
+yarl==1.9.7
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1726248574750/work
