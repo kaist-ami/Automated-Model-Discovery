@@ -1,4 +1,5 @@
-# Automated Model Discovery via Multi-modal & Multi-step Pipeline
+# Automated Model Discovery via 
+# Multi-modal & Multi-step Pipeline
 ### [Project Page](https://kim-youwang.github.io/model-discovery) | [Paper](https://arxiv.org/abs/2509.25946)
 [NeurIPS'25] Official Repository for 'Automated Model Discovery via Multi-modal & Multi-step Pipeline'
 
